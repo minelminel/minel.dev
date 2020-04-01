@@ -1,0 +1,10 @@
+BLOG POST TOPIC IDEAS
+- Creating API documentation using Insomnia & adding to an existing Flask app
+
+FEATURES
+- add `tags` to frontmatter for classifying blog posts
+- search blog post content & tags
+- blog should be a subdomain blog.minel.dev
+
+TODO
+- dockerize

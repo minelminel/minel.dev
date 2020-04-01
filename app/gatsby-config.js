@@ -20,7 +20,9 @@ module.exports = {
         path: `${__dirname}/src/pages`,
       },
     },
-    `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-transformer-sharp`,
+    },
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-sharp`,
     {
